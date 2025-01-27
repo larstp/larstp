@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# My name is Lars and I'm totally new to this coding thing.
+### My name is Lars and I'm totally new to this coding thing.
 
 - 🔭 I’m currently working on getting an education in front end development.
 - 🌱 I’m currently learning JavaScript!
