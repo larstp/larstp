@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on getting an education in front end development.
 - 🌱 I’m currently learning JavaScript!
-- 👯 I’m so sorry about my messi repos, they will get better 😄
+- 👯 I’m so sorry about my messy repos, they will get better 😄
 
 <!--
 **larstp/larstp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
