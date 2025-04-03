@@ -1,4 +1,4 @@
-![FgHOQj701 (1)](https://github.com/user-attachments/assets/9e6f826d-7f26-4d60-adf6-7ad09bde1832)## Hi there 👋
+## Hi there 👋
 
 ### My name is Lars and I'm totally new to this coding thing.
 
@@ -7,6 +7,8 @@
 - 👯 I’m so sorry about my messy repos, they will get better 😄
 
 <!--
+
+![FgHOQj701 (1)](https://github.com/user-attachments/assets/9e6f826d-7f26-4d60-adf6-7ad09bde1832)
 
 ![Upload<?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
