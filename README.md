@@ -3,7 +3,7 @@
 ### My name is Lars and I'm totally new to this coding thing.
 
 - 🔭 I’m currently working on getting an education in front end development.
-- 🌱 I’m currently learning JavaScript!
+- 🌱 I just finished my 1st year exam!
 - 👯 I’m so sorry about my messy repos, they will get better 😄
 
 <!--
