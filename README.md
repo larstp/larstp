@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Lars a 2nd year student at NOROFF School of Technology, Front End.
+### My name is Lars, a 2nd year student at NOROFF School of Technology, Front End.
 
 - 🔭 I’m currently working on getting an education in front end development!
 - 🌱 I just finished my 1st year exam!
