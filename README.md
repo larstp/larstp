@@ -8,7 +8,7 @@
 - 👯 I’m looking for any type of experience I can get
 - 📫 How to reach me: Check the contact form on my [Portfolio](https://larstp.github.io) page
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The Universe's average colour is called 'Cosmic latte'. In a 2002 [study](https://www.sciencefocus.com/space/universe-average-colour-cosmic-latte), astronomers found that the light coming from galaxies averaged into a beige colour that’s close to white. And I don't like that one bit.
+- ⚡ Fun fact: If you cut a hole in a net, then the net has fewer holes..
 
 
 <!--
