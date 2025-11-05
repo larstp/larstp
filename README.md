@@ -1,14 +1,17 @@
-## Hi there 👋
+# Hi! I'm Lars, a Front-End Developer in the making!
+## I'm a second-year student at NOROFF School of Technology, specializing in Front-End Development. I love transforming design ideas into clean, functional code.
 
-### My name is Lars, a 2nd year student at NOROFF School of Technology, Front End.
+🎓 Education Focus: My primary goal is mastering the modern front-end stack, with a strong focus on JavaScript, accessible design, and responsive layouts.
 
-- 🔭 I’m currently working on getting an education in front end development!
-- 🌱 I just finished my 1st year exam!
-- 🌱 I’m currently learning more JavaScript
-- 👯 I’m looking for any type of experience I can get
-- 📫 How to reach me: Check the contact form on my [Portfolio](https://larstp.github.io) page
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: If you cut a hole in a net, then the net has fewer holes..
+✅ What I've done: I just successfully passed my first-year exams and am now accelerating my knowledge in complex JavaScript patterns and frameworks.
+
+🤝 Ready to collaborate: I'm actively seeking opportunities for hands-on experience, including internships, volunteer work, or open-source contributions. Let's build something together!
+
+➡️ Reach me: All my contact details and projects are available on my Portfolio (link in my profile).
+
+😄 Pronouns: He/Him
+
+P.S. If you cut a hole in a net, the net will have fewer holes. Just throwing that out there.
 
 
 <!--
