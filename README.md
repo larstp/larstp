@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="images/github-header-banner.png" alt="hero-banner" width="150" />
+  <img src="images/github-header-banner.png" alt="hero-banner" width="100%" />
 </p>
-
-# Hi! I'm Lars, a Front-End Developer in the making!
 
 ## I'm a second-year student at NOROFF School of Technology, specializing in Front-End Development. I love transforming design ideas into clean, functional code.
 
