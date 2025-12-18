@@ -2,8 +2,6 @@
   <img src="images/github-header-banner.png" alt="hero-banner" width="100%" />
 </p>
 
-# Hi! I'm Lars, a Front-End Developer in the making!
-
 ## I'm a second-year student at NOROFF School of Technology, specializing in Front-End Development. I love transforming design ideas into clean, functional code.
 
 🎓 Education Focus: My primary goal is mastering the modern front-end stack, with a strong focus on JavaScript, UI/UX Design and having fun with it!
