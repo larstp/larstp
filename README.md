@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/icons/mannaz-sign-round-black-outline-icon-WHITE.svg" alt="hero-banner" width="150" />
+</p>
+
 # Hi! I'm Lars, a Front-End Developer in the making!
 ## I'm a second-year student at NOROFF School of Technology, specializing in Front-End Development. I love transforming design ideas into clean, functional code.
 
