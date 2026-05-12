@@ -4,15 +4,15 @@
 
 ## I'm a second-year student at NOROFF School of Technology, specializing in Front-End Development. I love transforming design ideas into clean, functional code.
 
-🎓 Education Focus: My primary goal is mastering the modern front-end stack, with a strong focus on JavaScript, UI/UX Design and having fun with it!
+Education Focus: My primary goal is mastering the modern front-end stack, with a strong focus on JavaScript, UI/UX Design and having fun with it!
 
-✅ What I've done: I just successfully passed my first-year exams and am now accelerating my knowledge in complex JavaScript patterns and frameworks.
+What I've done: I just successfully passed my first-year exams and am now accelerating my knowledge in complex JavaScript patterns and frameworks.
 
-🤝 Ready to collaborate: I'm actively seeking opportunities for hands-on experience, including internships, volunteer work, or open-source contributions. Let's build something together!
+Ready to collaborate: I'm actively seeking opportunities for hands-on experience, including internships, volunteer work, or open-source contributions. Let's build something together!
 
-➡️ Reach me: All my contact details and projects are available on my Portfolio (link in my profile).
+Reach me: All my contact details and projects are available on my Portfolio (link in my profile).
 
-😄 Pronouns: He/Him
+Pronouns: He/Him
 
 P.S. If you cut a hole in a net, the net will have fewer holes. Just throwing that out there.
 
