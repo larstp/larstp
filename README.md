@@ -14,7 +14,7 @@ Reach me: All my contact details and projects are available on my Portfolio (lin
 
 Pronouns: He/Him
 
-P.S. If you cut a hole in a net, the net will have fewer holes. Just throwing that out there.
+P.S. If you cut a hole in a net, the net will have fewer holes. Just throwing that out there. Like a net.
 
 ---
 
