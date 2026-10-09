@@ -1,20 +1,28 @@
 <p align="center">
-  <img src="images/github-header-banner.png" alt="hero-banner" width="100%" />
+  <img src="images/github-header-banner.webp" alt="hero-banner" width="100%" />
 </p>
 
-## I'm a second-year student at NOROFF School of Technology, specializing in Front-End Development. I love transforming design ideas into clean, functional code.
+# Lars Torp Pettersen
 
-Education Focus: My primary goal is mastering the modern front-end stack, with a strong focus on JavaScript, UI/UX Design and having fun with it!
+Junior front-end developer based in Oslo, with a background in cinematography and a strong interest in design.
+I work with HTML, CSS, JavaScript, TypeScript, React, and responsive UI.
 
-What I've done: I just successfully passed my first-year exams and am now accelerating my knowledge in complex JavaScript patterns and frameworks.
+## A couple of things I've built
 
-Ready to collaborate: I'm actively seeking opportunities for hands-on experience, including internships, volunteer work, or open-source contributions. Let's build something together!
+- **[GcG Trading Platform](https://gcg.slovstuggu.com)** - a card trading platform for my local Gundam GCG group, focused on deck-building and trading via Discord (Work in progress)
+- **[Mimir](https://mimir.larstp.com)** - a social platform built around API integration and CRUD functionality
+- **[Barter](https://barter.larstp.com)** - an online auction house experience
 
-Reach me: All my contact details and projects are available on my Portfolio (link in my profile).
+## Currently
+
+Looking for my first junior front-end role, freelance opportunities, and interesting projects.
+Open to teams in Oslo, remote-friendly companies, and collaborations involving thoughtful interface work.
+
+## Find me online
+
+[Portfolio](https://larstp.com) · [GitHub](https://github.com/larstp) · [LinkedIn](https://www.linkedin.com/in/larstpet/) · [Email](mailto:github.enviably914@passinbox.com)
 
 Pronouns: He/Him
-
-P.S. If you cut a hole in a net, the net will have fewer holes. Just throwing that out there. Like a net.
 
 ---
 
@@ -23,18 +31,3 @@ P.S. If you cut a hole in a net, the net will have fewer holes. Just throwing th
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larstp/larstp/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/larstp/larstp/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<!--
-**larstp/larstp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
