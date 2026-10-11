@@ -17,7 +17,6 @@ I'm looking for my first junior front-end role, freelance opportunities, and int
 
 Fagskole-educated (120 study points) at [Noroff School of Technology and Digital Media](https://www.noroff.no/en).
 
-Pronouns: He/Him
 
 ## Tech stack
 
